@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sentence-transformers
+chromadb
+pypdf
+python-multipart
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-silero
+livekit-api
+python-dotenv
+openai
+supabase
